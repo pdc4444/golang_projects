@@ -9,7 +9,7 @@ Special Requirements:
 	The tool should return identical IP data from what is observed at http://checkip.dyndns.com/
 	The tool should use the "X-FORWARDED-FOR" value for it's IP address if it is present in the client request
 
-Devloper: Peter Cooper
+Developer: Peter Cooper
 
 Sources Used:
 https://www.youtube.com/watch?v=YS4e4q9oBaU
